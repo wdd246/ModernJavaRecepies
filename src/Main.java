@@ -21,7 +21,12 @@ public class Main {
         System.out.println(match.isPrime(3));
         System.out.println(match.isPrime(4));
 
+        GruppingBy gb = new GruppingBy();
+        gb.show();
 
+        Compute comp = new Compute();
+        String passage = "It is a short story about bomb and terrorist , terrorist come to bomb and tell her explode.";
+        System.out.println(comp.countWords(passage,"bomb","terrorist"));
 
     }
 }

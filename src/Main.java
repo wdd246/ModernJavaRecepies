@@ -28,5 +28,12 @@ public class Main {
         String passage = "It is a short story about bomb and terrorist , terrorist come to bomb and tell her explode.";
         System.out.println(comp.countWords(passage,"bomb","terrorist"));
 
+        PredicateAnd and = new PredicateAnd();
+        and.show();
+
+        OptionalFind op = new OptionalFind();
+        op.showFirstEven();
+        op.showFirstOdd();
+
     }
 }

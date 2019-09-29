@@ -44,5 +44,8 @@ public class Main {
         SequentialParallel seqp = new SequentialParallel();
 
         //DefaultInterface df = new DefaultInterface();
+
+        Future fut = new Future();
+        fut.doing();
     }
 }

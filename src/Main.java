@@ -35,5 +35,14 @@ public class Main {
         op.showFirstEven();
         op.showFirstOdd();
 
+        Time time = new Time();
+        time.showDateTime();
+        time.showMoonLandingDateTime();
+        time.plusTime();
+        time.betweenDays();
+
+        SequentialParallel seqp = new SequentialParallel();
+
+        //DefaultInterface df = new DefaultInterface();
     }
 }

@@ -47,5 +47,14 @@ public class Main {
 
         Future fut = new Future();
         fut.doing();
+
+        //PrivateInterface sum = new PrivateInterface();
+        //sum.addEvens(1,2,3,4,5,6,7,8,9,10);
+        //sum.addOdds(1,2,3,4,5,6,7,8,9,10);
+
+        RandomWhile rw = new RandomWhile();
+        System.out.println(rw.nums);
+        System.out.println(rw.nums2);
+
     }
 }

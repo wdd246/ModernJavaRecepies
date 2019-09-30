@@ -2,10 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b069e1b4-c3de-4333-b392-ed12a82ed48b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneSorting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modern Java Recipies/DefaultInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modern Java Recipies/Lambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modern Java Recipies/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modern Java Recipies/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modern Java Recipies/Match.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modern Java Recipies/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modern Java Recipies/Reduce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modern Java Recipies/SummaryStatistics.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BufforFib.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FiveBufforFib.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Compute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FiveCompute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DefaultInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OneDefaultInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Future.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NineFuture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GruppingBy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FourGruppingBy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OneLambda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Match.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreeMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OptionalFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SixOptionalFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreePalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PredicateAnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FivePredicateAnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrivateInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TenPrivateInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RandomWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TenRandomWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreeReduce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SequentialParallel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NineSequentialParallel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SummaryStatistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreeSummaryStatistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EughtTime.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,28 +50,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="16" />
-          <entry key="java" value="5411" />
-          <entry key="md" value="44" />
+          <entry key="dummy" value="120" />
+          <entry key="java" value="6070" />
+          <entry key="md" value="169" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5411" />
-          <entry key="Markdown" value="44" />
-          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="JAVA" value="6070" />
+          <entry key="Markdown" value="169" />
+          <entry key="PLAIN_TEXT" value="120" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="28" />
-          <entry key="md" value="2" />
+          <entry key="java" value="33" />
+          <entry key="md" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="28" />
-          <entry key="Markdown" value="2" />
+          <entry key="JAVA" value="33" />
+          <entry key="Markdown" value="3" />
         </counts>
       </usages-collector>
     </session>
@@ -58,8 +81,29 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1344">
-              <caret line="63" column="26" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+            <state relative-caret-position="189">
+              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="546">
+                <caret line="26" selection-start-line="26" selection-end-line="26" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FivePredicateAnd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="18" column="76" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
             </state>
           </provider>
         </entry>
@@ -102,9 +146,15 @@
         <option value="$PROJECT_DIR$/src/PrivateInterface.java" />
         <option value="$PROJECT_DIR$/src/RandomTakeWhile.java" />
         <option value="$PROJECT_DIR$/src/RandomWhile.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/Lambda.java" />
+        <option value="$PROJECT_DIR$/src/Sorting.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/OneSorting.java" />
+        <option value="$PROJECT_DIR$/src/OneDefaultInterface.java" />
+        <option value="$PROJECT_DIR$/src/Three.java" />
+        <option value="$PROJECT_DIR$/src/ThreeReduce.java" />
+        <option value="$PROJECT_DIR$/src/FivePredicateAnd.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -149,7 +199,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569855818906" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569859831858" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -197,12 +247,12 @@
       <workItem from="1569703526034" duration="5098000" />
       <workItem from="1569752496697" duration="3260000" />
       <workItem from="1569771365788" duration="3176000" />
-      <workItem from="1569854306282" duration="1925000" />
+      <workItem from="1569854306282" duration="5277000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13459000" />
+    <option name="totallyTimeSpent" value="16811000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="87" width="1936" height="1056" extended-state="6" />
@@ -216,8 +266,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -252,21 +302,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Compute.java">
+    <entry file="file://$PROJECT_DIR$/src/FiveCompute.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Match.java">
+    <entry file="file://$PROJECT_DIR$/src/ThreeMatch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="104" selection-start-line="5" selection-start-column="104" selection-end-line="5" selection-end-column="104" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Palindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/ThreePalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
@@ -281,7 +331,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OptionalFind.java">
+    <entry file="file://$PROJECT_DIR$/src/SixOptionalFind.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
@@ -291,14 +341,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DefaultInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PrivateInterface.java">
+    <entry file="file://$PROJECT_DIR$/src/TenPrivateInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
@@ -312,15 +355,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RandomWhile.java">
+    <entry file="file://$PROJECT_DIR$/src/TenRandomWhile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
@@ -330,21 +365,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BufforFib.java">
+    <entry file="file://$PROJECT_DIR$/src/FiveBufforFib.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Reduce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="74" selection-start-line="7" selection-start-column="74" selection-end-line="7" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SummaryStatistics.java">
+    <entry file="file://$PROJECT_DIR$/src/ThreeSummaryStatistics.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
@@ -354,31 +382,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GruppingBy.java">
+    <entry file="file://$PROJECT_DIR$/src/FourGruppingBy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="7" column="119" selection-start-line="7" selection-start-column="119" selection-end-line="7" selection-end-column="119" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lambda.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PredicateAnd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="19" column="76" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Time.java">
+    <entry file="file://$PROJECT_DIR$/src/EughtTime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="651">
           <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
@@ -388,7 +399,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SequentialParallel.java">
+    <entry file="file://$PROJECT_DIR$/src/NineSequentialParallel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
@@ -398,7 +409,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Future.java">
+    <entry file="file://$PROJECT_DIR$/src/NineFuture.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
@@ -408,10 +419,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/OneSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OneLambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OneDefaultInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreeReduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FivePredicateAnd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="18" column="76" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="546">
+            <caret line="26" selection-start-line="26" selection-end-line="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1344">
-          <caret line="63" column="26" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+        <state relative-caret-position="189">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
         </state>
       </provider>
     </entry>

@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.stream.Collectors;
 
-public class TwoPredykatyFiltrowanie {
+public class TwoPredicateFilter {
     /*
         Szukanie łańcucha określonej długości.
 

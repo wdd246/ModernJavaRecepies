@@ -11,6 +11,7 @@ public class Main {
         System.out.println(rs.sum); //55
         System.out.println(rs.max); //9
         System.out.println(rs.s); //Hello,World!
+        System.out.println(rs.sum(1,10)); //55
 
         ThreePalindrome pal = new ThreePalindrome();
         System.out.println(pal.isPalindrome("Kajak")); //true
@@ -73,6 +74,10 @@ public class Main {
         System.out.println(sort.lowercase); //[Brosnan, Connery, Craig, Dalton, Lazenby, Moore]
         System.out.println(sort.length); //[Moore, Craig, Dalton, Connery, Lazenby, Brosnan]
         System.out.println(sort.lengthAndNatural); //[Craig, Moore, Dalton, Brosnan, Connery, Lazenby]
+
+        TwoPredicateFilter pf = new TwoPredicateFilter();
+        System.out.println(pf.getNamesOfLength(10,"Adam","Abcdefghij","Ola")); //Abcdefghij
+        System.out.println(pf.getNamesStartingWith("Bomb","Bombastic","Upperbomb","bombas")); //Bombastic
 
     }
 }

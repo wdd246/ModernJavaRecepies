@@ -10,4 +10,17 @@ public class ThreePalindrome {
         String backward = sb.reverse().toString().toLowerCase();
         return forward.equals(backward);
     }
+
+    public boolean isPalindrome2(String s){
+        String forward =
+                s.toLowerCase()
+                .codePoints() //Zwraca IntStream
+                .filter(Character::isLetterOrDigit)
+                .collect(StringBuilder::new,
+                        StringBuilder::appendCodePoint,
+                        StringBuilder::append)
+                .toString();
+        String backwards = new StringBuilder(forward).reverse().toString();
+        return forward.equals(backwards);
+    }
 }

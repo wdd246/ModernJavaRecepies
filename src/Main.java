@@ -38,11 +38,11 @@ public class Main {
         op.showFirstEven(); //five
         op.showFirstOdd(); //strings
 
-        EughtTime eughtTime = new EughtTime();
-        eughtTime.showDateTime(); //Instant.now():2019-09-30T15:03:40.875806900Z LocalDate.now()2019-09-30 LocalTime.now()17:03:40.931774100  LocalDateTime.now()2019-09-30T17:03:40.931774100
-        eughtTime.showMoonLandingDateTime(); //First Moon landing:  Data: 1969-07-20  EughtTime: 20:18
-        eughtTime.plusTime(); //2017-01-02 2017-01-05 2017-01-12 2017-07-12 2019-07-12
-        eughtTime.betweenDays(); //400 days to go...
+        EightTime eightTime = new EightTime();
+        eightTime.showDateTime(); //Instant.now():2019-09-30T15:03:40.875806900Z LocalDate.now()2019-09-30 LocalTime.now()17:03:40.931774100  LocalDateTime.now()2019-09-30T17:03:40.931774100
+        eightTime.showMoonLandingDateTime(); //First Moon landing:  Data: 1969-07-20  EightTime: 20:18
+        eightTime.plusTime(); //2017-01-02 2017-01-05 2017-01-12 2017-07-12 2019-07-12
+        eightTime.betweenDays(); //400 days to go...
 
         NineSequentialParallel seqp = new NineSequentialParallel(); //main doing 6 main doing 2 main doing 8 main doing 2 main doing 10 main doing 18
 

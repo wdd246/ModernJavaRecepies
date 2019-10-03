@@ -2,7 +2,7 @@ import java.time.*;
 import java.time.format.DateTimeFormatter;
 import java.time.temporal.ChronoUnit;
 
-public class EughtTime {
+public class EightTime {
     public void showDateTime(){
         System.out.println("Instant.now():"+ Instant.now());
         System.out.println("LocalDate.now()"+ LocalDate.now());
@@ -15,7 +15,7 @@ public class EughtTime {
         LocalDate moonLandingDate = LocalDate.of(1969, Month.JULY,20);
         LocalTime moonLandingTime = LocalTime.of(20,18);
         System.out.println("Data: "+moonLandingDate);
-        System.out.println("EughtTime: "+moonLandingTime);
+        System.out.println("EightTime: "+moonLandingTime);
     }
 
     public void plusTime(){

@@ -46,7 +46,7 @@ public class Main {
 
         NineSequentialParallel seqp = new NineSequentialParallel(); //main doing 6 main doing 2 main doing 8 main doing 2 main doing 10 main doing 18
 
-        //OneDefaultInterface df = new OneDefaultInterface();
+        //OneDefaultAndStaticInterface df = new OneDefaultAndStaticInterface();
 
         NineFuture fut = new NineFuture();
         fut.doing(); //Przetwarzanie  Witaj, świecie

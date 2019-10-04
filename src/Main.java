@@ -79,5 +79,7 @@ public class Main {
         System.out.println(pf.getNamesOfLength(10,"Adam","Abcdefghij","Ola")); //Abcdefghij
         System.out.println(pf.getNamesStartingWith("Bomb","Bombastic","Upperbomb","bombas")); //Bombastic
 
+
+
     }
 }

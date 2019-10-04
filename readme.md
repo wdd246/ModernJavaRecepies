@@ -1,5 +1,5 @@
 One,two,three previous done
-3 74/75
+
 3 76
 3 77
 3 80/81 solo

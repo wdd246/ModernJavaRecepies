@@ -1,5 +1,4 @@
 One,two,three previous done
-3 65/66
 3 74/75
 3 76
 3 77
